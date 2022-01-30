@@ -1,1 +1,1 @@
-![Products Page](1.jpeg)
+![ProductsPage](1.jpeg)
